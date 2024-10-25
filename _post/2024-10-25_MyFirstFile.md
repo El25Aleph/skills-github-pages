@@ -1,4 +1,4 @@
 ---
-title: "My First Markdown File"
+title: "MyFirstFile"
 date: 2024-10-25
 ---
